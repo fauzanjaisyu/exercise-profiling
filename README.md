@@ -2,7 +2,7 @@
 ## JMeter Report and Test Results
 ### **Endpoint** `/all-student`
 Test Result JMeter
-<img src="src/image/testresults1.png" alt="all-student">
+<img src="src/image/testresult1.png" alt="all-student">
 Before Optimization JMeter:
 <img src="src/image/before-refactor1.png" alt="all-student"/>
 After Optimization JMeter:
@@ -16,7 +16,7 @@ Execution Time `getAllStudentWithCourses()` from Intellij Profiler:
 
 ### **Endpoint** `/all-student-name`
 Test Result JMeter:
-<img src="src/image/testresults2.png" alt="all-student-name">
+<img src="src/image/testresult2.png" alt="all-student-name">
 Before Optimization JMeter:
 <img src="src/image/before-refactor2.png" alt="all-student-name"/>
 After Optimization JMeter:
@@ -30,7 +30,7 @@ Execution Time `joinStudentNames()` from Intellij Profiler:
 
 ### **Endpoint** `/highest-gpa`
 Test Result JMeter:
-<img src="src/image/testresults3.png" alt="all-student-name">
+<img src="src/image/testresult3.png" alt="all-student-name">
 Before Optimization JMeter:
 <img src="src/image/before-refactor3.png" alt="all-student-name"/>
 After Optimization JMeter:
